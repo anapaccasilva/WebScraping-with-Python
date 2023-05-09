@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://media.giphy.com/media/3o6Zt2YL3H8a7vPBio/giphy.gif" alt="animated" />
+  <img src="https://media.tenor.com/RBgJKHd9H1EAAAAC/tomato-pomodoro.gif" alt="animated" />
 </p>
 
 
